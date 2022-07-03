@@ -1,4 +1,4 @@
-import { musicList } from "./list";
+import { musicList } from "./musicList";
 import { title, artist, audio, image, progress, durationContent } from "./dom";
 import { disableRepeating, pauseAudio } from "./main";
 

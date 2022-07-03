@@ -1,4 +1,4 @@
-import { musicList } from "./list";
+import { musicList } from "./musicList";
 import {
   audio,
   playButton,
